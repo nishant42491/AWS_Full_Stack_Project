@@ -99,6 +99,10 @@ Access the hosted [Amplify version of the app](https://main.d12wxi4pqv7j46.ampli
 
 ![Output File](assets/output_txt.png)
 
+### UI Screenshot:
+
+![UI](assets/UI.png)
+
 ---
 
 Thank you for the opportunity. I hope you find my submission satisfactory.
