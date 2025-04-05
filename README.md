@@ -1,25 +1,8 @@
-# Fovus_Submission
+# AWS Full Stack Application
 
 ## Welcome!
 
-Welcome to my submission for the Fovus Internship Program. This full-stack web application is integrated with Amazon AWS, fulfilling all basic requirements outlined in the documentation.
-
-### Brief Description:
-
-1. **Basic Requirements:**
-    - All basic requirements specified in the documentation have been successfully fulfilled.
-
-2. **Bonus Tasks:**
-    - The application is hosted on AWS Amplify utilizing CI/CD for deployment.
-    - Implemented a responsive UI using Tailwind CSS and React.
-
-### Problems Being Addressed:
-
-- **CORS Issue in React Form:**
-  Despite configuring valid headers in the API, the browser blocks responses due to CORS issues.
-
-- **Single Folder for All Users:**
-  Due to restrictions on using Cognito for authentication, all user files are stored in a single folder. Exploring alternatives was challenging without user-specific authentication.
+This full-stack web application is integrated with Amazon AWS.
 
 ### Description:
 
