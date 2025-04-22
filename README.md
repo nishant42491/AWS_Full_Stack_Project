@@ -88,6 +88,4 @@ Access the hosted [Amplify version of the app](https://main.d12wxi4pqv7j46.ampli
 
 ---
 
-Thank you for the opportunity. I hope you find my submission satisfactory.
-
 **Email-ID:** nrajadhyaksha@ucsd.edu / rajadhyakshanishant@gmail.com
